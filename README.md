@@ -1,1 +1,1 @@
-# DZ_Pyton
+# DZ_Python
